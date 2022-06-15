@@ -1,0 +1,24 @@
+.dark {
+  background-color: #000;
+}
+
+.dark-select {
+  background-color: #000;
+  color:#fff
+}
+
+.dark-form {
+  background-color: #000;
+  border: 2px solid #fff;
+  border-radius: 10px;
+}
+
+.dark-input {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+.dark-btn {
+  background-color: #000 !important;
+  color: #0D6EFD !important
+}
