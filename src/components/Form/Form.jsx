@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Input from "../FormUi/Input";
 import Button from "../FormUi/Button";
-import Language from "../content/Language";
+import Language from "../Content/Language"
 
 const content = Language();
 const Form = ({ lang, theme }) => {

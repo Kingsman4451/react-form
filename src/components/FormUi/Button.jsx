@@ -1,5 +1,5 @@
 import React from "react";
-import Language from "../content/Language";
+import Language from "../Content/Language";
 
 const content = Language();
 
